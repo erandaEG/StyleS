@@ -1,0 +1,122 @@
+[
+  {
+    "Id":1,
+    "Name": "Product #1 name",
+    "ShortDescription": "Product #1 short description goes here.",
+    "LongDescription": "Product #1 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-01",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-01"
+  },
+  {
+    "Id":2,
+    "Name": "Product #2 name",
+    "ShortDescription": "Product #2 short description goes here.",
+    "LongDescription": "Product #2 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-02",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-02"
+  },
+  {
+    "Id":3,
+    "Name": "Product #3 name",
+    "ShortDescription": "Product #3 short description goes here.",
+    "LongDescription": "Product #3 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-03",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-03"
+  },
+  {
+    "Id":4,
+    "Name": "Product #4 name",
+    "ShortDescription": "Product #4 short description goes here.",
+    "LongDescription": "Product #4 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-04",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-04"
+  },
+  {
+    "Id":5,
+    "Name": "Product #5 name",
+    "ShortDescription": "Product #5 short description goes here.",
+    "LongDescription": "Product #5 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-05",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-05"
+  },
+  {
+    "Id":6,
+    "Name": "Product #6 name",
+    "ShortDescription": "Product #6 short description goes here.",
+    "LongDescription": "Product #6 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-06",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-06"
+  },
+  {
+    "Id":7,
+    "Name": "Product #7 name",
+    "ShortDescription": "Product #7 short description goes here.",
+    "LongDescription": "Product #7 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-07",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-07"
+  },
+  {
+    "Id":8,
+    "Name": "Product #8 name",
+    "ShortDescription": "Product #8 short description goes here.",
+    "LongDescription": "Product #8 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-08",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-08"
+  },
+  {
+    "Id":9,
+    "Name": "Product #9 name",
+    "ShortDescription": "Product #9 short description goes here.",
+    "LongDescription": "Product #9 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-09",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-09"
+  },
+  {
+    "Id":10,
+    "Name": "Product #10 name",
+    "ShortDescription": "Product #10 short description goes here.",
+    "LongDescription": "Product #10 long description goes here.",
+    "Category": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-10",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-10"
+  }
+]
